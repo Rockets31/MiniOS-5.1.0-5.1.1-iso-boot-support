@@ -1,5 +1,5 @@
 # MiniOS-5.1.0/5.1.1-iso-boot-support
-Directly boot & and install MiniOS 5.1.0 &amp; 5.1.1 from ISO image using grub2 without burning to usb-drive. (There is a bug in theses versions, so the builtin isoboot function is not working &amp; I support an 'external' solution.)
+Directly boot & and install MiniOS 5.1.0 &amp; 5.1.1 from ISO image using grub2 without burning to usb-drive. (There is a bug in theses versions, so the builtin isoboot function is not working, so I provide an 'external' solution.)
 
 # Features
 - Filesystems: ext4, fat 
